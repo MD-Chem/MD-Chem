@@ -18,11 +18,11 @@ The [SERPINE1 repository](https://github.com/MD-Chem/SERPINE1) contains R script
 
 [Read the paper — Cell Death & Disease (2025)](https://doi.org/10.1038/s41419-025-07855-y) · [Explore the code and data requirements](https://github.com/MD-Chem/SERPINE1#readme)
 
-## Featured project: single-cell workflows in Python & R
+## Featured project: my single-cell analysis workflow
 
-A [standalone programming portfolio](https://github.com/MD-Chem/single-cell-workflows) demonstrating Scanpy, SoupX, Seurat, and optional scDblFinder with independently simulated data. It covers sparse-matrix handling, quality control, ambient-RNA correction, normalization, clustering, visualization, and Python–R data exchange.
+Selected excerpts from [my R analysis notebooks](https://github.com/MD-Chem/single-cell-workflows), covering SoupX correction, scDblFinder doublet checks, Seurat normalization and clustering, marker review, and annotation. The notebooks retain my workflow and plotting code, with private inputs and study-specific results omitted.
 
-The repository includes executable examples, Python checks, and a synthetic-data preview. All cells, genes, and labels are artificial.
+A separate Python/Scanpy companion demonstrates reproducible analysis with simulated data.
 
 ## Research interests
 
