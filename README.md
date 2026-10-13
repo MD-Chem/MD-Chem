@@ -2,7 +2,7 @@
 
 **Cancer genomics · Single-cell transcriptomics · Drug discovery**
 
-I study treatment resistance in cancer by combining transcriptomic analysis with chemical biology and experimental oncology. My work connects changes in tumor-cell states and gene expression to drug response, metastasis, and tumor–immune interactions.
+I study immune tolerance and treatment resistance in cancer by combining transcriptomic analysis with chemical biology and experimental oncology. My work connects changes in tumor-cell states and gene expression to drug response, metastasis, and tumor–immune interactions.
 
 I hold a PhD in Pharmacy from the National University of Singapore, with research training in medicinal chemistry and chemical biology. My research at the Genome Institute of Singapore, A*STAR, has focused on colorectal cancer, single-cell genomics, and therapeutic discovery.
 
