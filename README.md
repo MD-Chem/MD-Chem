@@ -28,7 +28,7 @@ My [single-cell portfolio](https://github.com/MD-Chem/single-cell-workflows) bri
 | **Reversing immune tolerance in colorectal cancer using designed beta-catenin–TCF inhibitors (CRTi)** | [Scanpy, Scrublet, Seurat, signature scoring and downstream analysis](https://github.com/MD-Chem/single-cell-workflows/tree/main/projects/crti-colorectal-cancer) |
 | **Characterisation of endothelial cells in progressive fatty liver disease in humans** | [scVI, Scanpy, Seurat and annotation workflows](https://github.com/MD-Chem/single-cell-workflows/tree/main/projects/fatty-liver-endothelial-cells) |
 
-The excerpts retain substantive analysis and plotting code while keeping unpublished data and findings private. The HCC page includes two selected unannotated figures. Separate [method examples](https://github.com/MD-Chem/single-cell-workflows/tree/main/methods) show Harmony, Seurat CCA and trajectory analysis, and a [synthetic Python companion](https://github.com/MD-Chem/single-cell-workflows/blob/main/docs/SYNTHETIC_EXAMPLE.md) provides a runnable demonstration.
+The excerpts retain substantive analysis and plotting code while keeping unpublished data and findings private. The HCC page includes two selected unannotated figures. A [synthetic Python companion](https://github.com/MD-Chem/single-cell-workflows/blob/main/docs/SYNTHETIC_EXAMPLE.md) provides a runnable demonstration.
 
 ## Research interests
 
@@ -41,7 +41,7 @@ The excerpts retain substantive analysis and plotting code while keeping unpubli
 | Area | Methods and tools I use |
 | --- | --- |
 | Single-cell analysis | Seurat, Scanpy, AnnData, SoupX, Scrublet, scDblFinder, DoubletFinder, SingleR and UCell; quality control, clustering, annotation and signature scoring |
-| Integration and latent modelling | scvi-tools, Harmony and Seurat CCA; code examples distinguish model fitting, imported embeddings and integration steps |
+| Latent modelling | scvi-tools; model training, latent-space clustering and analysis of imported embeddings |
 | Patient-cohort analysis | Kaplan–Meier estimation, Cox models, molecular-subtype comparisons, and expression visualization |
 | Scientific programming | R, Python, tidyverse, ggplot2, ComplexHeatmap, pandas, NumPy, Jupyter, and Git |
 | Experimental research | Single-cell library preparation, pharmacological perturbation, functional oncology assays, and immune profiling |
