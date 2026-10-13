@@ -18,6 +18,12 @@ The [SERPINE1 repository](https://github.com/MD-Chem/SERPINE1) contains R script
 
 [Read the paper — Cell Death & Disease (2025)](https://doi.org/10.1038/s41419-025-07855-y) · [Explore the code and data requirements](https://github.com/MD-Chem/SERPINE1#readme)
 
+## Featured project: single-cell workflows in Python & R
+
+A [standalone programming portfolio](https://github.com/MD-Chem/single-cell-workflows) demonstrating Scanpy, SoupX, Seurat, and optional scDblFinder with independently simulated data. It covers sparse-matrix handling, quality control, ambient-RNA correction, normalization, clustering, visualization, and Python–R data exchange.
+
+The repository includes executable examples, Python checks, and a synthetic-data preview. All cells, genes, and labels are artificial.
+
 ## Research interests
 
 - **Cancer genomics:** single-cell and bulk transcriptomics, cell-state annotation, and gene-signature evaluation.
@@ -28,7 +34,7 @@ The [SERPINE1 repository](https://github.com/MD-Chem/SERPINE1) contains R script
 
 | Area | Methods and tools I use |
 | --- | --- |
-| Single-cell analysis | Seurat, Scanpy, UCell; quality control, clustering, marker analysis, and signature scoring |
+| Single-cell analysis | Seurat, Scanpy, SoupX, scDblFinder, UCell; quality control, clustering, marker analysis, and signature scoring |
 | Patient-cohort analysis | Kaplan–Meier estimation, Cox models, molecular-subtype comparisons, and expression visualization |
 | Scientific programming | R, Python, tidyverse, ggplot2, ComplexHeatmap, pandas, NumPy, Jupyter, and Git |
 | Experimental research | Single-cell library preparation, pharmacological perturbation, functional oncology assays, and immune profiling |
