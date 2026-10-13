@@ -18,11 +18,17 @@ The [SERPINE1 repository](https://github.com/MD-Chem/SERPINE1) contains R script
 
 [Read the paper — Cell Death & Disease (2025)](https://doi.org/10.1038/s41419-025-07855-y) · [Explore the code and data requirements](https://github.com/MD-Chem/SERPINE1#readme)
 
-## Featured project: my single-cell analysis workflow
+## Single-cell research portfolio
 
-Selected excerpts from [my R analysis notebooks](https://github.com/MD-Chem/single-cell-workflows), covering SoupX correction, scDblFinder doublet checks, Seurat normalization and clustering, marker review, and annotation. The notebooks retain my workflow and plotting code, with private inputs and study-specific annotations omitted. Selected unannotated figures show examples from my analysis.
+My [single-cell portfolio](https://github.com/MD-Chem/single-cell-workflows) brings together Python and R code I used across three projects whose manuscripts are in preparation.
 
-A separate Python/Scanpy companion demonstrates reproducible analysis with simulated data.
+| Project | Explore the analysis |
+| --- | --- |
+| **Anti-PD-L1 resistance in hepatocellular carcinoma** | [SoupX, Seurat, SCTransform, doublet checks and annotation](https://github.com/MD-Chem/single-cell-workflows/tree/main/projects/hcc-pdl1-resistance) |
+| **Reversing immune tolerance in colorectal cancer using designed beta-catenin–TCF inhibitors (CRTi)** | [Scanpy, Scrublet, Seurat, signature scoring and downstream analysis](https://github.com/MD-Chem/single-cell-workflows/tree/main/projects/crti-colorectal-cancer) |
+| **Characterisation of endothelial cells in progressive fatty liver disease in humans** | [scVI, Scanpy, Seurat and annotation workflows](https://github.com/MD-Chem/single-cell-workflows/tree/main/projects/fatty-liver-endothelial-cells) |
+
+The excerpts retain substantive analysis and plotting code while keeping unpublished data and findings private. The HCC page includes two selected unannotated figures. Separate [method examples](https://github.com/MD-Chem/single-cell-workflows/tree/main/methods) show Harmony, Seurat CCA and trajectory analysis, and a [synthetic Python companion](https://github.com/MD-Chem/single-cell-workflows/blob/main/docs/SYNTHETIC_EXAMPLE.md) provides a runnable demonstration.
 
 ## Research interests
 
@@ -34,7 +40,8 @@ A separate Python/Scanpy companion demonstrates reproducible analysis with simul
 
 | Area | Methods and tools I use |
 | --- | --- |
-| Single-cell analysis | Seurat, Scanpy, SoupX, scDblFinder, UCell; quality control, clustering, marker analysis, and signature scoring |
+| Single-cell analysis | Seurat, Scanpy, AnnData, SoupX, Scrublet, scDblFinder, DoubletFinder, SingleR and UCell; quality control, clustering, annotation and signature scoring |
+| Integration and latent modelling | scvi-tools, Harmony and Seurat CCA; code examples distinguish model fitting, imported embeddings and integration steps |
 | Patient-cohort analysis | Kaplan–Meier estimation, Cox models, molecular-subtype comparisons, and expression visualization |
 | Scientific programming | R, Python, tidyverse, ggplot2, ComplexHeatmap, pandas, NumPy, Jupyter, and Git |
 | Experimental research | Single-cell library preparation, pharmacological perturbation, functional oncology assays, and immune profiling |
@@ -45,3 +52,4 @@ A separate Python/Scanpy companion demonstrates reproducible analysis with simul
 - **Multiprotein Dynamic Combinatorial Chemistry: A Strategy for the Simultaneous Discovery of Subfamily-Selective Inhibitors for Nucleic Acid Demethylases FTO and ALKBH3.** Das et al. *Chemistry – An Asian Journal* (2018). [DOI](https://doi.org/10.1002/asia.201800729)
 
 I welcome conversations about cancer genomics, therapeutic discovery, and collaborations that connect computational analysis with experimental biology.
+
