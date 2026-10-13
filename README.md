@@ -20,7 +20,7 @@ The [SERPINE1 repository](https://github.com/MD-Chem/SERPINE1) contains R script
 
 ## Featured project: my single-cell analysis workflow
 
-Selected excerpts from [my R analysis notebooks](https://github.com/MD-Chem/single-cell-workflows), covering SoupX correction, scDblFinder doublet checks, Seurat normalization and clustering, marker review, and annotation. The notebooks retain my workflow and plotting code, with private inputs and study-specific results omitted.
+Selected excerpts from [my R analysis notebooks](https://github.com/MD-Chem/single-cell-workflows), covering SoupX correction, scDblFinder doublet checks, Seurat normalization and clustering, marker review, and annotation. The notebooks retain my workflow and plotting code, with private inputs and study-specific annotations omitted. Selected unannotated figures show examples from my analysis.
 
 A separate Python/Scanpy companion demonstrates reproducible analysis with simulated data.
 
