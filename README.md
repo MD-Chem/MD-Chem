@@ -28,7 +28,7 @@ My [single-cell portfolio](https://github.com/MD-Chem/single-cell-workflows) bri
 | **Reversing immune tolerance in colorectal cancer using designed beta-catenin–TCF inhibitors (CRTi)** | [Scanpy, Scrublet, Seurat, signature scoring and downstream analysis](https://github.com/MD-Chem/single-cell-workflows/tree/main/projects/crti-colorectal-cancer) |
 | **Characterisation of endothelial cells in progressive fatty liver disease in humans** | [scVI, Scanpy, Seurat and annotation workflows](https://github.com/MD-Chem/single-cell-workflows/tree/main/projects/fatty-liver-endothelial-cells) |
 
-The excerpts retain substantive analysis and plotting code while keeping unpublished data and findings private. The HCC page includes two selected unannotated figures. A [synthetic Python companion](https://github.com/MD-Chem/single-cell-workflows/blob/main/docs/SYNTHETIC_EXAMPLE.md) provides a runnable demonstration.
+The excerpts retain substantive analysis and plotting code while keeping unpublished data and findings private. The HCC page includes two selected unannotated figures.
 
 ## Research interests
 
